@@ -20,7 +20,7 @@
 &nbsp;&nbsp;
 
 <h3 align='left'> Who Am I?! 👻❓</h3>
-<hr style="border:1px solid gray"></hr>
+
 <p align = 'left'> Hi!👋 I'm Jeffrey from New Zealand. I currently work as a data scientist for Waikato DHB after graduating with first class honours in both data analytics 🔢 and computer science. 🖥️ I have worked with major clients in New Zealand during my time at <a href="https://www.lumaanalytics.com/" target="_blank">Luma Analytics</a> and it was during this time, my desire for further studies was encouraged. As a result of this, I now find myself progressing through my masters in computer science at the University of Waikato.🎓  &nbsp;&nbsp;
   
 I have a particular interest in time series analysis/modelling and geospatial analysis. This includes many work with <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">ESRI ArcGIS</a> and <a href="https://kepler.gl/" target="_blank">Kepler.gl</a> for showcasing prediction based results. I am a firm believer that an optimal use of data is one of the primary factors to the success of a business or organization. &nbsp;&nbsp;
