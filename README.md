@@ -1,3 +1,5 @@
+![plot](C:/Users/jeffr/OneDrive/Desktop/Github/GithubBanner
+.png)
 - 👋 Hi, I’m Jeffrey!
 - 👀 I’m interested in data science and creating a positive change through the manipulation of data.
 - 🌱 I’m currently learning how to create a geo-spatial visualisation of the city's traffic congestion through the use of Json & Python.
