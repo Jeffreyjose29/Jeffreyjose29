@@ -19,6 +19,11 @@
 
 </p>
 
+<hr>
+<h3 align='right'> Who Am I?! </h3>
+<p align = 'right'> Text </p>
+<hr>
+
 <br>
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
