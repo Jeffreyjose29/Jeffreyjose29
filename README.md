@@ -1,6 +1,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/49552078/165517804-8f571c52-8173-476b-8524-25a24c87dd3a.png)
 
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=onedark)
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffreyjose29&layout=compact&theme=onedark)](https://github.com/Jeffreyjose29/github-readme-stats)
 
 
