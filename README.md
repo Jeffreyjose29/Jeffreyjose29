@@ -1,5 +1,5 @@
-![plot](C:/Users/jeffr/OneDrive/Desktop/Github/GithubBanner
-.png)
+![GithubBanner](https://user-images.githubusercontent.com/49552078/165517804-8f571c52-8173-476b-8524-25a24c87dd3a.png)
+
 - 👋 Hi, I’m Jeffrey!
 - 👀 I’m interested in data science and creating a positive change through the manipulation of data.
 - 🌱 I’m currently learning how to create a geo-spatial visualisation of the city's traffic congestion through the use of Json & Python.
