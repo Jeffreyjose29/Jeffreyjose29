@@ -27,7 +27,7 @@ I have a particular interest in time series analysis/modelling and geospatial an
   
 Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
 
-* 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. 🇳🇿👨‍💼</p>
+* 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. :new_zealand:👨‍💼</p>
 
 
 <br>
