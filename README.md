@@ -42,9 +42,10 @@ Please reach out if you are interested in working with me on any projects! I am 
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr style="border:1px solid gray"> </hr> &nbsp;
+<hr style="border:1px solid gray"> </hr>
 
 **NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._ &nbsp;&nbsp;
+
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyjose29&layout=compact)](https://github.com/jeffreyjose29/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyjose29&layout=compact&theme=dracula)](https://github.com/jeffreyjose29/github-readme-stats)
 
