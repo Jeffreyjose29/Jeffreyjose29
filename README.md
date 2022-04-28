@@ -31,15 +31,17 @@ I have a particular interest in time series analysis/modelling and geospatial an
   
 * 📫**How to reach me:** Catch and follow me from the above links☝️, in addition to following me here. &nbsp;&nbsp;
   
-* 📫**Fun fact:** I love 🏏,⚽,☕ and 🎮.&nbsp;&nbsp;
+* ⚡**Fun fact:** I love 🏏,⚽,☕ and 🎮.&nbsp;&nbsp;
   
   
 Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
 
 </p>
-
-
 <br>
 <p align="center">
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
+<hr style="border:1px solid gray">&nbsp;&nbsp;
+
+**NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._
