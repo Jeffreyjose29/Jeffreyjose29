@@ -27,7 +27,13 @@ I have a particular interest in time series analysis/modelling and geospatial an
   
 Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
 
-* 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. :new_zealand:👨‍💼</p>
+* 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. :new_zealand:👨‍💼 &nbsp;&nbsp;
+  
+* 💬**Ask me about:** Java, Python, R, Database, Big Data, SQL, Power BI & Qlik, Databricks, Modelling & Optimization, Geospatial Analysis, Project Management, Scala.&nbsp;&nbsp;
+  
+* 📫**How to reach me:** Catch and follow me from the above links☝️, in addition to following me here.
+  
+</p>
 
 
 <br>
