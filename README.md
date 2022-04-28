@@ -25,7 +25,7 @@
   
 I have a particular interest in time series analysis/modelling and geospatial analysis. This includes many work with <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">ESRI ArcGIS</a> and <a href="https://kepler.gl/" target="_blank">Kepler.gl</a> for showcasing prediction based results. I am a firm believer that an optimal use of data is one of the primary factors to the success of a business or organization. &nbsp;&nbsp;
   
-* 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. :new_zealand:👨‍💼 &nbsp;&nbsp;
+* 🎯 I'm currently focusing on: <a href="https://www.stats.govt.nz/information-releases/building-consents-issued-september-2021" target="_blank">Building Concents Model Optimization</a> for a New Zealand organziation. :new_zealand:👨‍💼 &nbsp;&nbsp;
   
 * 💬**Ask me about:** Java, Python, R, Database, Big Data, SQL, Power BI & Qlik, Databricks, Modelling & Optimization, Geospatial Analysis, Project Management, Scala.&nbsp;&nbsp;
   
@@ -42,6 +42,9 @@ Please reach out if you are interested in working with me on any projects! I am 
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr style="border:1px solid gray">&nbsp;
+<hr style="border:1px solid gray"> </hr> &nbsp;
 
-**NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._
+**NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._ &nbsp;&nbsp;
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyjose29&layout=compact)](https://github.com/jeffreyjose29/github-readme-stats)
+
