@@ -42,5 +42,6 @@ Please reach out if you are interested in working with me on any projects! I am 
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr style="border:1px solid gray">&nbsp;&nbsp;
+<hr style="border:1px solid gray">&nbsp;
+
 **NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._
