@@ -25,14 +25,17 @@
   
 I have a particular interest in time series analysis/modelling and geospatial analysis. This includes many work with <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">ESRI ArcGIS</a> and <a href="https://kepler.gl/" target="_blank">Kepler.gl</a> for showcasing prediction based results. I am a firm believer that an optimal use of data is one of the primary factors to the success of a business or organization. &nbsp;&nbsp;
   
-Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
-
 * 🎯 I'm currently focusing on: Building Concents Model Optimization for a New Zealand organziation. :new_zealand:👨‍💼 &nbsp;&nbsp;
   
 * 💬**Ask me about:** Java, Python, R, Database, Big Data, SQL, Power BI & Qlik, Databricks, Modelling & Optimization, Geospatial Analysis, Project Management, Scala.&nbsp;&nbsp;
   
-* 📫**How to reach me:** Catch and follow me from the above links☝️, in addition to following me here.
+* 📫**How to reach me:** Catch and follow me from the above links☝️, in addition to following me here. &nbsp;&nbsp;
   
+* 📫**Fun fact:** I love 🏏,⚽,☕ and 🎮.&nbsp;&nbsp;
+  
+  
+Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
+
 </p>
 
 
