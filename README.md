@@ -43,5 +43,4 @@ Please reach out if you are interested in working with me on any projects! I am 
 </p>
 
 <hr style="border:1px solid gray">&nbsp;&nbsp;
-
 **NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._
