@@ -4,7 +4,7 @@
 <h1 align='center'> Hi there 👋, I'm Jeffrey  👨‍💻💻 </h1>
 
 <p align='center'>
-  I live in Hamilton, New Zealand and work at <b>Waikato District Health Board</b> 
+  I live in Hamilton, New Zealand and work at <b>Health New Zealand</b> 
 </p>
 
 <p align='center'>
