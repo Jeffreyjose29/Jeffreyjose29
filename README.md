@@ -51,4 +51,5 @@ Please reach out if you are interested in working with me on any projects! I am 
 
 
 <h2 align='center'> Contributions History </h2>
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
