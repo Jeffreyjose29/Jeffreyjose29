@@ -46,5 +46,9 @@ Please reach out if you are interested in working with me on any projects! I am 
 
 **NOTE:** _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._ &nbsp;&nbsp;
 
-![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=vue)
+![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=vue)  
+  
 
+
+<h2 align='center'> Contributions History </h2>
+![](./profile-3d-contrib/profile-green-animate.svg)
