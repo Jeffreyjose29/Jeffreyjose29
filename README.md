@@ -49,7 +49,8 @@ Please reach out if you are interested in working with me on any projects! I am 
 ![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=vue)  
   
 
-
+<hr style="border:1px solid gray"> </hr>  
+  
 <h2 align='center'> Contributions History </h2>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
