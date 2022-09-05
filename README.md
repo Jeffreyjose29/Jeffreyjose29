@@ -1,4 +1,6 @@
-![GithubBanner (1)](https://user-images.githubusercontent.com/49552078/165628572-462d1e98-7a8a-4be9-bfeb-c42ffd221c3d.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49552078/188412279-ad5d3bce-f0f4-4320-9fe6-d3be85b436ab.gif" alt="animated" />
+</p>
 
 
 <h1 align='center'> Hi there 👋, I'm Jeffrey  👨‍💻💻 </h1>
