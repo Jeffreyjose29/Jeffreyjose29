@@ -27,13 +27,13 @@
   
 I have a particular interest in time series analysis/modelling and geospatial analysis. This includes many work with <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">ESRI ArcGIS</a> and <a href="https://kepler.gl/" target="_blank">Kepler.gl</a> for showcasing prediction based results. I am a firm believer that an optimal use of data is one of the primary factors to the success of a business or organization. &nbsp;&nbsp;
   
-* 🎯 I'm currently focusing on: Building a decision making tool for all parts of a T20 match through partnership with <a href="https://sussexcricket.co.uk/" target="_blank"><b>Sussex County Cricket</b></a>. 🇬🇧 🏏 &nbsp;&nbsp; 
+* 🎯 **I'm currently focusing on:** Building a decision making tool for all parts of a T20 match through partnership with <a href="https://sussexcricket.co.uk/" target="_blank"><b>Sussex County Cricket</b></a>. 🇬🇧 🏏 &nbsp;&nbsp; 
   
-* 💬**Ask me about:** Java, Python, R, Database, Big Data, SQL, Power BI & Qlik, Databricks, Modelling & Optimization, Geospatial Analysis, Project Management, Scala.&nbsp;&nbsp;
+* 💬 **Ask me about:** Java, Python, R, Database, Big Data, SQL, Power BI & Qlik, Databricks, Modelling & Optimization, Geospatial Analysis, Project Management, Scala.&nbsp;&nbsp;
   
-* 📫**How to reach me:** Catch and follow me from the above links☝️, in addition to following me here. &nbsp;&nbsp;
+* 📫 **How to reach me:** Catch and follow me from the above links☝️, in addition to following me here. &nbsp;&nbsp;
   
-* ⚡**Fun fact:** I love 🏏,⚽,☕ and 🎮.&nbsp;&nbsp;
+* ⚡ **Fun fact:** I love 🏏,⚽,☕ and 🎮.&nbsp;&nbsp;
   
   
 Please reach out if you are interested in working with me on any projects! I am always happy to contribute! 😊&nbsp;&nbsp;
