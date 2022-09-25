@@ -53,5 +53,5 @@ Please reach out if you are interested in working with me on any projects! I am 
   <a href="#"><img width = "500" src = "./profile-3d-contrib/profile-green-animate.svg"></img>
   <a href="#"><img width = "500" src = "https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=vue"></img>  
   
-  <b>NOTE:</b> _Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github._ &nbsp;&nbsp;
+  <b>NOTE:</b> Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github.
 </p>
