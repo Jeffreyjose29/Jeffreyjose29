@@ -51,7 +51,6 @@ Please reach out if you are interested in working with me on any projects! I am 
 
 <p align='center'>
   <a href="#"><img width = "500" src = "./profile-3d-contrib/profile-green-animate.svg"></img></a>
-  <a href="#"><img width = "500" src = "https://github-readme-stats.vercel.app/api?username=jeffreyjose29&show_icons=true&theme=vue"></img></a>  
   
   <b>NOTE:</b> Top languages does not indicate my skill level. It is Github's metric of which languages I have the most code on Github.
 </p>
