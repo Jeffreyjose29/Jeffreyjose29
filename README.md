@@ -11,7 +11,6 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/jeffreyjose29/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:jeffreyjose91@gmail.com?subject=Message%20To%20Jeffrey%20Jose"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
