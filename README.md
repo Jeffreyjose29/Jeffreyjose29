@@ -9,9 +9,7 @@
   I live in Hamilton, New Zealand and work at <b><a href="https://www.health.wa.gov.au/" target="_blank">Department of Health Western Australia</a></b> 
 </p>
 
-<p align='center'>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
-</p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 
 <p align='center'>
