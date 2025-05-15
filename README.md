@@ -1,12 +1,7 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/49552078/188412279-ad5d3bce-f0f4-4320-9fe6-d3be85b436ab.gif" alt="animated" />
-</p>
-
-
 <h1 align='center'> Hi there 👋, I'm Jeffrey  👨‍💻💻 </h1>
 
 <p align='center'>
-  I live in Hamilton, New Zealand and work at <b><a href="https://www.health.wa.gov.au/" target="_blank">Department of Health Western Australia</a></b> 
+  I live in Melbourne, Australia and work at <b><a href="https://www.boroondara.vic.gov.au/" target="_blank">City of Boroondara as Senior Analyst</a></b> 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
@@ -19,7 +14,7 @@
 
 <h3 align='left'> Who Am I?! 👻❓</h3>
 
-<p align = 'left'> Hi!👋 I'm Jeffrey from New Zealand. I currently work as a data scientist for Health New Zealand after graduating with first class honours in both data analytics 🔢 and computer science. 🖥️ I have worked with major clients in New Zealand during my time at <a href="https://www.lumaanalytics.com/" target="_blank">Luma Analytics</a> and it was during this time, my desire for further studies was encouraged. As a result of this, I now find myself progressing through my masters in computer science at the University of Waikato.🎓  &nbsp;&nbsp;
+<p align = 'left'> Hi!👋 I'm Jeffrey from New Zealand. I currently work as a Senior Analyst for City of Boroondara (previously working at the Department of Health WA and Health NZ) after graduating with first class honours in both data analytics 🔢 and computer science. 🖥️ I have worked with major clients in New Zealand during my time at <a href="https://www.lumaanalytics.com/" target="_blank">Luma Analytics</a> and it was during this time, my desire for further studies was encouraged.  &nbsp;&nbsp;
   
 I have a particular interest in time series analysis/modelling and geospatial analysis. This includes many work with <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">ESRI ArcGIS</a> and <a href="https://kepler.gl/" target="_blank">Kepler.gl</a> for showcasing prediction based results. I am a firm believer that an optimal use of data is one of the primary factors to the success of a business or organization. &nbsp;&nbsp;
   
