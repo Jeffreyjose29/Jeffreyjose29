@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Jeffrey  👨‍💻💻 </h1>
 
 <p align='center'>
-  I live in Melbourne, Australia and work at <b><a href="https://www.boroondara.vic.gov.au/" target="_blank">City of Boroondara as Senior Analyst</a></b> 
+  I live in Melbourne, Australia and work at <b><a href="https://www.boroondara.vic.gov.au/" target="_blank">City of Boroondara</a> as Senior Analyst</b> 
 </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
